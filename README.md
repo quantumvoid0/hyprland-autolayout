@@ -1,3 +1,4 @@
+# Hyprland-AutoLayout
 This simple program allows you to automatically open select applications into a workspace
 This script is still in development (current version is stable). feel free to open issues or contribute code
 
