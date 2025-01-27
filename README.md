@@ -1,5 +1,5 @@
 This simple program allows you to automatically open select applications into a workspace
-This script is still in development , expect to have bugs. feel free to open issues or contribute code
+This script is still in development (current version is stable). feel free to open issues or contribute code
 
 make sure you have python installed.
 In the `layout.py` i have added it to open `superfile` , `fastfetch` and `btop`; you can edit the apps u need to open to ur needs.
