@@ -10,5 +10,3 @@ save `layout.py` into your `~` directory (i.e the home directory) and then add t
 `bind = $mainMod,1,exec,python layout.py` to your `hyprland.conf`
 
 now when you press your keycode (for example here `super + 1`) your layout will open up.
-
-if code is broken or something doesnt seem to work , please open an issue
