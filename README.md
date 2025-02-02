@@ -8,6 +8,6 @@ In the `layout.py` i have added it to open `superfile` , `fastfetch` and `btop`;
 ## how to make it work?
 save `layout.py` into your `~` directory (i.e the home directory) and then add this 
 
-`bind = $mainMod,1,exec,python layout.py` to your `hyprland.conf`
+`bind = SUPER,1,exec,python layout.py` to your `hyprland.conf`
 
 now when you press your keycode (for example here `super + 1`) your layout will open up.
